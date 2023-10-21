@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blend Hasani</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="A beautiful landscape">
+
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=blend-hasani&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif)" alt="blend-hasani" /> </p>
 
