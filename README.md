@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on **front-end projects.**
 
 - 👨‍💻 All of my projects are available at [https://blend-hasani.github.io/Personal-Portfolio/#top](https://blend-hasani.github.io/Personal-Portfolio/#top)
 
